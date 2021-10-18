@@ -5,3 +5,4 @@ Atcoder 223に関するコード
 https://atcoder.jp/contests/abc223/tasks
 
 ## 参考記事
+https://kuroro.blog/atcoder/Y1hGuJB9uoMgUGxbMP4M/
